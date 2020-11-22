@@ -1,0 +1,7 @@
+A BC
+B C
+BC E
+D A
+E AF
+AEF D
+H I

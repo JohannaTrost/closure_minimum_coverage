@@ -1,0 +1,8 @@
+AB C
+C A
+BC D
+ACD B
+D EF
+ABE C
+CF BD
+CE AF
